@@ -16,6 +16,13 @@ The simplest way to download the code is to clone the repository with `git clone
 ```
 git clone https://github.com/kurtispykes/python.git
 ```
+### The steps
+1. `git clone <repo>`
+2. `cd <repo>`
+3. `pip install virtualenv` (if you don't already have virtualenv installed)
+4. `virtualenv venv` to create your new environment (called 'venv' here)
+5. `venv/bin/activate.bat` to enter the virtual environment
+6. `pip install -r requirements.txt` to install the requirements in the current environment
 
 ## Table of Contents 
 
@@ -30,6 +37,13 @@ git clone https://github.com/kurtispykes/python.git
 2. [The Array Data Structure Explained](https://medium.com/geekculture/the-array-data-structure-explained-b8eb4c5d1f7a)
 3. [The Stack Data Structure Explained](https://medium.com/geekculture/the-stack-data-structure-explained-28fda4de4816)
 4. [The Queue Data Structure Explained](https://medium.com/geekculture/the-queue-data-structure-explained-a6c1891232ba)
+
+### NumPy x Pandas
+* [Vectorization in Python](https://towardsdatascience.com/vectorization-in-python-46486819d3a): [See Full Code](numpy_x_pandas/vectorization.ipynb)
+* [Working with NumPy Arrays: Indexing](https://towardsdatascience.com/working-with-numpy-arrays-indexing-e4c08595ed57): [See Full Code](numpy_x_pandas/numpy_indexing.ipynb)
+* [Working with NumPy Arrays: Slicing](https://towardsdatascience.com/working-with-numpy-arrays-slicing-4453ec757ff0): [See Full Code](numpy_x_pandas/numpy_slicing.ipynb)
+* [Slicing & Indexing with Pandas](https://towardsdatascience.com/slicing-and-indexing-with-pandas-2bff05ec361e): [See Full Code](numpy_x_pandas/pandas_slicing_and_indexing.ipynb)
+
 
 ### Testing
 * [The Rules of Unit Test: 5 Best Practices](https://medium.com/pykes-technical-notes/the-rules-of-unit-test-5-best-practices-e2427a53400b)
