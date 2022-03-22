@@ -31,6 +31,9 @@ git clone https://github.com/kurtispykes/python.git
 * [An Introduction To Exception Handling in Python 3](https://medium.com/geekculture/an-introduction-to-exception-handling-in-python-8a5b9c98d47f)
 * [Inheritance: Getting to grips with OOP in Python](https://medium.com/geekculture/inheritance-getting-to-grips-with-oop-in-python-2ec35b52570)
 * [Python Iterators & Generators](https://medium.com/geekculture/python-iterators-generators-ea63c5821550)
+* [Python Decorators](https://medium.com/geekculture/python-decorators-9a1c42e61a35)
+* [Python Namespaces and Scopes](https://medium.com/geekculture/python-namespaces-and-scopes-acd1b2da9797)
+* [Python *args & **kwargs](https://medium.com/geekculture/python-args-kwargs-1c5c0ec9121)
 
 ### Data Structures & Algorithms 
 1. [Big O Notation Explained By An ML Engineer](https://medium.com/geekculture/big-o-notation-explained-by-an-ml-engineer-2dc991503474)
